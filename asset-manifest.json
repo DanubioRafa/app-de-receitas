@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-de-receitas/static/css/main.268a400c.css",
+    "main.js": "/app-de-receitas/static/js/main.b13a9f2d.js",
+    "static/media/logoGif1.gif": "/app-de-receitas/static/media/logoGif1.ea49308c958ff5404cec.gif",
+    "static/media/mealIconNew3.png": "/app-de-receitas/static/media/mealIconNew3.3654320cad4b44e7108e.png",
+    "static/media/drinkIconNew2.png": "/app-de-receitas/static/media/drinkIconNew2.1f17167ce97a6b2e2ea9.png",
+    "static/media/logoReverse.png": "/app-de-receitas/static/media/logoReverse.8dd095216e72b5f76128.png",
+    "static/media/whiteHeartIcon.png": "/app-de-receitas/static/media/whiteHeartIcon.107e16655d5225fca547.png",
+    "static/media/searchIconNew.png": "/app-de-receitas/static/media/searchIconNew.18af649be59c8f49d7d9.png",
+    "static/media/shareIcon.png": "/app-de-receitas/static/media/shareIcon.dbc5e438fb38c5b4b8cf.png",
+    "static/media/blackHeartIcon.png": "/app-de-receitas/static/media/blackHeartIcon.6bbf1ca77c9b741c5531.png",
+    "static/media/profileIconNew2.png": "/app-de-receitas/static/media/profileIconNew2.10718642e157900a49d9.png",
+    "static/media/HungryEnd.png": "/app-de-receitas/static/media/HungryEnd.fe2671b34644589b563b.png",
+    "index.html": "/app-de-receitas/index.html",
+    "main.268a400c.css.map": "/app-de-receitas/static/css/main.268a400c.css.map",
+    "main.b13a9f2d.js.map": "/app-de-receitas/static/js/main.b13a9f2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268a400c.css",
+    "static/js/main.b13a9f2d.js"
+  ]
+}
